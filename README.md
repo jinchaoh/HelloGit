@@ -5,4 +5,4 @@ this is a hello world test
 
 created by Hankin
 
-专用于GitHub学习。
+专用于GitHub学习和练习。
